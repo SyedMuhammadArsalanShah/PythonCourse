@@ -4,7 +4,7 @@
 maryam daniyal maaz safdar faris shafi
 
 '''
-
+# for multiple line use triple code
 print(''' Lorem ipsum dolor sit amet,
           consectetur adipisicing elit.
           Voluptates incidunt unde quisquam 
@@ -15,6 +15,7 @@ print(''' Lorem ipsum dolor sit amet,
 
 
 # data types 
+
 # string , integer, float, boolean, none
 
 
