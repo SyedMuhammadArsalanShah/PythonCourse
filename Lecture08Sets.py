@@ -7,9 +7,7 @@ print(type(a))
 b=set()
 print(type(b))
 
-
 a={2, 234,  2}
-
 print(type(a))
 print(a)
 
